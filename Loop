@@ -5,6 +5,6 @@ public class learnLoop {
     public static  void main (String []args){
 
         System.out.println("Belajar loop pada java");
-        System.out.println("Keep Learning and eager")
+        System.out.println("Keep Learning and eager");
     }
 }
